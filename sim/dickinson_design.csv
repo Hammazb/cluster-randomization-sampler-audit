@@ -1,0 +1,17 @@
+county,location,inciis,numberofchildrenages1935months,uptodateonimmunizations,africanamerican,hispanic,pediatricpracticetofamilymedicin,communityhealthcenters,incomecat,income
+1,Rural,94,366,37,2,44,1.0,1,Low,35988.0
+2,Rural,85,1274,39,0,23,0.079999998,0,High,67565.0
+3,Rural,85,614,42,5,12,0.33000001,3,Low,35879.0
+4,Rural,93,1720,39,1,18,0.33000001,6,High,63617.0
+5,Rural,82,242,31,1,6,0.2,0,High,59118.0
+6,Rural,80,350,27,3,15,0.0,3,Med,57179.0
+7,Rural,94,401,49,1,38,0.2,3,Low,29738.0
+8,Rural,100,234,37,1,39,0.0,1,Low,37350.0
+9,Urban,93,3779,51,4,35,0.15000001,11,Med,52923.0
+10,Urban,89,11807,51,10,17,0.44999999,6,Med,58302.0
+11,Urban,83,9453,54,2,7,0.61000001,1,High,93819.0
+12,Urban,70,12354,29,8,13,0.25999999,10,Med,54839.0
+13,Urban,93,10008,50,2,13,0.34,3,High,63857.0
+14,Urban,85,5343,36,2,10,0.18000001,7,Med,53502.0
+15,Urban,82,3143,38,3,39,0.27000001,7,Low,39570.0
+16,Urban,84,6056,43,1,28,0.1,8,Med,52457.0

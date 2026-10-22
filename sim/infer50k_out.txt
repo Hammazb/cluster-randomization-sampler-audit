@@ -1,0 +1,9 @@
+raw TV by law: {'Exact target': np.float64(0.0), 'Swap t=10': np.float64(0.725991), 'Swap t=41': np.float64(0.248146), 'Swap t=170': np.float64(0.00985), 'Swap t=1000': np.float64(0.0), 'Biased descent': np.float64(0.958042), 'Amplification t*=2': np.float64(0.00144), 'XY-QAOA raw': np.float64(0.833922), 'Penalty-QAOA raw': np.float64(0.949081)}
+F0 sharp null rho=.05 done in 16s
+F1a tau=.25 rho=.05 done in 14s
+F1b tau=.50 rho=.05 done in 14s
+F1c hetero rho=.05 done in 15s
+F3a null rho=0 done in 15s
+F3b null rho=.20 done in 14s
+F3c tau=.5 rho=0 done in 15s
+F3d tau=.5 rho=.20 done in 16s

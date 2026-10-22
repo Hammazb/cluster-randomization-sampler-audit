@@ -1,0 +1,4 @@
+lambda=48 selected: p=3 seed=6 energy=0.0179 rawTV=0.9491 P(A)=0.0509 P(w8 not acc)=0.4291 P(wrong)=0.5200 condTV=0.0023
+lambda=12 selected: p=3 seed=7 energy=0.0356 rawTV=0.9375 P(A)=0.0625 P(w8 not acc)=0.4192 P(wrong)=0.5183 condTV=0.0109
+lambda=192 selected: p=3 seed=7 energy=0.0122 rawTV=0.9507 P(A)=0.0493 P(w8 not acc)=0.4361 P(wrong)=0.5146 condTV=0.0006
+done

@@ -1,0 +1,16 @@
+XY ceiling (min raw TV over parameters, 12 NM starts, 4000 evals):
+  p=1: best raw TV 0.8846  P(A)=0.1162  condTV=0.4866
+  p=2: best raw TV 0.8360  P(A)=0.1652  condTV=0.4810
+  p=3: best raw TV 0.8294  P(A)=0.1709  condTV=0.4901
+  p=4: best raw TV 0.8284  P(A)=0.1721  condTV=0.4905
+GM-QAOA (balance-score phase separator), energy-selected: {'p': 3, 'seed': 5, 'obj': 0.0987, 'raw': 0.7155, 'pA': 0.2845, 'cond': 0.0438}
+  GM energy p=1: raw TV range [0.813,0.900]
+  GM ceiling p=1: best raw TV 0.8078 P(A)=0.1922 condTV=0.0261
+  GM energy p=2: raw TV range [0.772,0.813]
+  GM ceiling p=2: best raw TV 0.7471 P(A)=0.2529 condTV=0.0440
+  GM energy p=3: raw TV range [0.712,0.813]
+  GM ceiling p=3: best raw TV 0.6862 P(A)=0.3138 condTV=0.0595
+Indicator phase separator + Grover mixer, gamma=beta=pi, p=1: raw TV 0.324
+Indicator phase separator + Grover mixer, gamma=beta=pi, p=2: raw TV 0.00144
+Indicator phase separator + Grover mixer, gamma=beta=pi, p=3: raw TV 0.396806
+done
